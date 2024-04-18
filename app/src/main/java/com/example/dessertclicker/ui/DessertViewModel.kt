@@ -2,6 +2,7 @@ package com.example.dessertclicker.ui
 
 import androidx.lifecycle.ViewModel
 import com.example.dessertclicker.data.Datasource.dessertList
+import com.example.dessertclicker.data.DessertUiState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
